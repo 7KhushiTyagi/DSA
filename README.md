@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/7KhushiTyagi/DSA/tree/master/0004-median-of-two-sorted-arrays) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/7KhushiTyagi/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0033-search-in-rotated-sorted-array](https://github.com/7KhushiTyagi/DSA/tree/master/0033-search-in-rotated-sorted-array) |
+| [0053-maximum-subarray](https://github.com/7KhushiTyagi/DSA/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/7KhushiTyagi/DSA/tree/master/0075-sort-colors) |
 | [0136-single-number](https://github.com/7KhushiTyagi/DSA/tree/master/0136-single-number) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/7KhushiTyagi/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/7KhushiTyagi/DSA/tree/master/0053-maximum-subarray) |
 | [0410-split-array-largest-sum](https://github.com/7KhushiTyagi/DSA/tree/master/0410-split-array-largest-sum) |
 ## Greedy
 |  |
@@ -98,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/7KhushiTyagi/DSA/tree/master/0004-median-of-two-sorted-arrays) |
+| [0053-maximum-subarray](https://github.com/7KhushiTyagi/DSA/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/7KhushiTyagi/DSA/tree/master/0169-majority-element) |
 ## Math
 |  |
