@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/7KhushiTyagi/DSA/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/7KhushiTyagi/DSA/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/7KhushiTyagi/DSA/tree/master/0054-spiral-matrix) |
+| [0055-jump-game](https://github.com/7KhushiTyagi/DSA/tree/master/0055-jump-game) |
 | [0073-set-matrix-zeroes](https://github.com/7KhushiTyagi/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/7KhushiTyagi/DSA/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/7KhushiTyagi/DSA/tree/master/0078-subsets) |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/7KhushiTyagi/DSA/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/7KhushiTyagi/DSA/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/7KhushiTyagi/DSA/tree/master/0055-jump-game) |
 | [0118-pascals-triangle](https://github.com/7KhushiTyagi/DSA/tree/master/0118-pascals-triangle) |
 | [0131-palindrome-partitioning](https://github.com/7KhushiTyagi/DSA/tree/master/0131-palindrome-partitioning) |
 | [0300-longest-increasing-subsequence](https://github.com/7KhushiTyagi/DSA/tree/master/0300-longest-increasing-subsequence) |
@@ -137,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/7KhushiTyagi/DSA/tree/master/0055-jump-game) |
 | [0410-split-array-largest-sum](https://github.com/7KhushiTyagi/DSA/tree/master/0410-split-array-largest-sum) |
 ## Prefix Sum
 |  |
