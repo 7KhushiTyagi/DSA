@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/7KhushiTyagi/DSA/tree/master/0547-number-of-provinces) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/7KhushiTyagi/DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0733-flood-fill](https://github.com/7KhushiTyagi/DSA/tree/master/0733-flood-fill) |
+| [0785-is-graph-bipartite](https://github.com/7KhushiTyagi/DSA/tree/master/0785-is-graph-bipartite) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/7KhushiTyagi/DSA/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 ## Binary Search Tree
 |  |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/7KhushiTyagi/DSA/tree/master/0547-number-of-provinces) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/7KhushiTyagi/DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0733-flood-fill](https://github.com/7KhushiTyagi/DSA/tree/master/0733-flood-fill) |
+| [0785-is-graph-bipartite](https://github.com/7KhushiTyagi/DSA/tree/master/0785-is-graph-bipartite) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/7KhushiTyagi/DSA/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0994-rotting-oranges](https://github.com/7KhushiTyagi/DSA/tree/master/0994-rotting-oranges) |
 ## Array
@@ -220,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/7KhushiTyagi/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/7KhushiTyagi/DSA/tree/master/0130-surrounded-regions) |
 | [0547-number-of-provinces](https://github.com/7KhushiTyagi/DSA/tree/master/0547-number-of-provinces) |
+| [0785-is-graph-bipartite](https://github.com/7KhushiTyagi/DSA/tree/master/0785-is-graph-bipartite) |
 ## String
 |  |
 | ------- |
@@ -257,4 +260,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/7KhushiTyagi/DSA/tree/master/0547-number-of-provinces) |
+| [0785-is-graph-bipartite](https://github.com/7KhushiTyagi/DSA/tree/master/0785-is-graph-bipartite) |
 <!---LeetCode Topics End-->
