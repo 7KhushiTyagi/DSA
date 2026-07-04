@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0802-find-eventual-safe-states](https://github.com/7KhushiTyagi/DSA/tree/master/0802-find-eventual-safe-states) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/7KhushiTyagi/DSA/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0994-rotting-oranges](https://github.com/7KhushiTyagi/DSA/tree/master/0994-rotting-oranges) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/7KhushiTyagi/DSA/tree/master/1091-shortest-path-in-binary-matrix) |
 ## Array
 |  |
 | ------- |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0994-rotting-oranges](https://github.com/7KhushiTyagi/DSA/tree/master/0994-rotting-oranges) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/7KhushiTyagi/DSA/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1048-longest-string-chain](https://github.com/7KhushiTyagi/DSA/tree/master/1048-longest-string-chain) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/7KhushiTyagi/DSA/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/7KhushiTyagi/DSA/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/7KhushiTyagi/DSA/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/7KhushiTyagi/DSA/tree/master/1539-kth-missing-positive-number) |
@@ -221,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/7KhushiTyagi/DSA/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/7KhushiTyagi/DSA/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/7KhushiTyagi/DSA/tree/master/0994-rotting-oranges) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/7KhushiTyagi/DSA/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1901-find-a-peak-element-ii](https://github.com/7KhushiTyagi/DSA/tree/master/1901-find-a-peak-element-ii) |
 ## Union-Find
 |  |
