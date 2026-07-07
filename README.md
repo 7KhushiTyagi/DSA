@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/7KhushiTyagi/DSA/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/7KhushiTyagi/DSA/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/7KhushiTyagi/DSA/tree/master/0099-recover-binary-search-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/7KhushiTyagi/DSA/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/7KhushiTyagi/DSA/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/7KhushiTyagi/DSA/tree/master/0033-search-in-rotated-sorted-array) |
+| [0096-unique-binary-search-trees](https://github.com/7KhushiTyagi/DSA/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/7KhushiTyagi/DSA/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/7KhushiTyagi/DSA/tree/master/0099-recover-binary-search-tree) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/7KhushiTyagi/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -56,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/7KhushiTyagi/DSA/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/7KhushiTyagi/DSA/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/7KhushiTyagi/DSA/tree/master/0099-recover-binary-search-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/7KhushiTyagi/DSA/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
@@ -167,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/7KhushiTyagi/DSA/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/7KhushiTyagi/DSA/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/7KhushiTyagi/DSA/tree/master/0055-jump-game) |
+| [0096-unique-binary-search-trees](https://github.com/7KhushiTyagi/DSA/tree/master/0096-unique-binary-search-trees) |
 | [0118-pascals-triangle](https://github.com/7KhushiTyagi/DSA/tree/master/0118-pascals-triangle) |
 | [0131-palindrome-partitioning](https://github.com/7KhushiTyagi/DSA/tree/master/0131-palindrome-partitioning) |
 | [0300-longest-increasing-subsequence](https://github.com/7KhushiTyagi/DSA/tree/master/0300-longest-increasing-subsequence) |
@@ -201,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/7KhushiTyagi/DSA/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/7KhushiTyagi/DSA/tree/master/0050-powx-n) |
+| [0096-unique-binary-search-trees](https://github.com/7KhushiTyagi/DSA/tree/master/0096-unique-binary-search-trees) |
 | [0268-missing-number](https://github.com/7KhushiTyagi/DSA/tree/master/0268-missing-number) |
 | [0368-largest-divisible-subset](https://github.com/7KhushiTyagi/DSA/tree/master/0368-largest-divisible-subset) |
 ## Bit Manipulation
