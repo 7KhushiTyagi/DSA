@@ -133,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/7KhushiTyagi/DSA/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/7KhushiTyagi/DSA/tree/master/0090-subsets-ii) |
 | [0118-pascals-triangle](https://github.com/7KhushiTyagi/DSA/tree/master/0118-pascals-triangle) |
+| [0120-triangle](https://github.com/7KhushiTyagi/DSA/tree/master/0120-triangle) |
 | [0128-longest-consecutive-sequence](https://github.com/7KhushiTyagi/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/7KhushiTyagi/DSA/tree/master/0130-surrounded-regions) |
 | [0135-candy](https://github.com/7KhushiTyagi/DSA/tree/master/0135-candy) |
@@ -178,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/7KhushiTyagi/DSA/tree/master/0070-climbing-stairs) |
 | [0096-unique-binary-search-trees](https://github.com/7KhushiTyagi/DSA/tree/master/0096-unique-binary-search-trees) |
 | [0118-pascals-triangle](https://github.com/7KhushiTyagi/DSA/tree/master/0118-pascals-triangle) |
+| [0120-triangle](https://github.com/7KhushiTyagi/DSA/tree/master/0120-triangle) |
 | [0131-palindrome-partitioning](https://github.com/7KhushiTyagi/DSA/tree/master/0131-palindrome-partitioning) |
 | [0198-house-robber](https://github.com/7KhushiTyagi/DSA/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/7KhushiTyagi/DSA/tree/master/0213-house-robber-ii) |
