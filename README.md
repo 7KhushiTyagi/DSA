@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0785-is-graph-bipartite](https://github.com/7KhushiTyagi/DSA/tree/master/0785-is-graph-bipartite) |
 | [0802-find-eventual-safe-states](https://github.com/7KhushiTyagi/DSA/tree/master/0802-find-eventual-safe-states) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/7KhushiTyagi/DSA/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
+| [1020-number-of-enclaves](https://github.com/7KhushiTyagi/DSA/tree/master/1020-number-of-enclaves) |
 | [1631-path-with-minimum-effort](https://github.com/7KhushiTyagi/DSA/tree/master/1631-path-with-minimum-effort) |
 ## Binary Search Tree
 |  |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0802-find-eventual-safe-states](https://github.com/7KhushiTyagi/DSA/tree/master/0802-find-eventual-safe-states) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/7KhushiTyagi/DSA/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0994-rotting-oranges](https://github.com/7KhushiTyagi/DSA/tree/master/0994-rotting-oranges) |
+| [1020-number-of-enclaves](https://github.com/7KhushiTyagi/DSA/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/7KhushiTyagi/DSA/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1631-path-with-minimum-effort](https://github.com/7KhushiTyagi/DSA/tree/master/1631-path-with-minimum-effort) |
 ## Array
@@ -161,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0994-rotting-oranges](https://github.com/7KhushiTyagi/DSA/tree/master/0994-rotting-oranges) |
 | [1004-max-consecutive-ones-iii](https://github.com/7KhushiTyagi/DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/7KhushiTyagi/DSA/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1020-number-of-enclaves](https://github.com/7KhushiTyagi/DSA/tree/master/1020-number-of-enclaves) |
 | [1048-longest-string-chain](https://github.com/7KhushiTyagi/DSA/tree/master/1048-longest-string-chain) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/7KhushiTyagi/DSA/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/7KhushiTyagi/DSA/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
@@ -266,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/7KhushiTyagi/DSA/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/7KhushiTyagi/DSA/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/7KhushiTyagi/DSA/tree/master/0994-rotting-oranges) |
+| [1020-number-of-enclaves](https://github.com/7KhushiTyagi/DSA/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/7KhushiTyagi/DSA/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1631-path-with-minimum-effort](https://github.com/7KhushiTyagi/DSA/tree/master/1631-path-with-minimum-effort) |
 | [1901-find-a-peak-element-ii](https://github.com/7KhushiTyagi/DSA/tree/master/1901-find-a-peak-element-ii) |
@@ -276,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/7KhushiTyagi/DSA/tree/master/0130-surrounded-regions) |
 | [0547-number-of-provinces](https://github.com/7KhushiTyagi/DSA/tree/master/0547-number-of-provinces) |
 | [0785-is-graph-bipartite](https://github.com/7KhushiTyagi/DSA/tree/master/0785-is-graph-bipartite) |
+| [1020-number-of-enclaves](https://github.com/7KhushiTyagi/DSA/tree/master/1020-number-of-enclaves) |
 | [1631-path-with-minimum-effort](https://github.com/7KhushiTyagi/DSA/tree/master/1631-path-with-minimum-effort) |
 ## String
 |  |
