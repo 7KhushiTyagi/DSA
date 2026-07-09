@@ -5,27 +5,25 @@ public:
         int low=0;
         int high=n-1;
 
-        while(low<=high){
-            int mid= low +(high-low)/2;
+        while(high>=low){
+            int mid=low+(high-low)/2;
 
             if(nums[mid]==target){
                 return mid;
             }
-            else if(nums[mid]>=nums[low]){ //left sorted
-                 if(nums[low]<=target && target<nums[mid]){
+            else if(nums[mid]>=nums[low]){
+                if(nums[low]<=target && target<nums[mid]){
                     high=mid-1;
-                 }else{
+                }else{
                     low=mid+1;
-                 }
-                
+                }
             }else{
-                if(nums[mid]<target && target<=nums[high]){
+                if(nums[high]>=target && target>nums[mid]){
                     low=mid+1;
                 }else{
                     high=mid-1;
                 }
             }
-
         }
         return -1;
         
