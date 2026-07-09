@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1539-kth-missing-positive-number](https://github.com/7KhushiTyagi/DSA/tree/master/1539-kth-missing-positive-number) |
 | [1631-path-with-minimum-effort](https://github.com/7KhushiTyagi/DSA/tree/master/1631-path-with-minimum-effort) |
 | [1901-find-a-peak-element-ii](https://github.com/7KhushiTyagi/DSA/tree/master/1901-find-a-peak-element-ii) |
+| [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/7KhushiTyagi/DSA/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
 ## Binary Tree
 |  |
 | ------- |
@@ -182,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/7KhushiTyagi/DSA/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1631-path-with-minimum-effort](https://github.com/7KhushiTyagi/DSA/tree/master/1631-path-with-minimum-effort) |
 | [1901-find-a-peak-element-ii](https://github.com/7KhushiTyagi/DSA/tree/master/1901-find-a-peak-element-ii) |
+| [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/7KhushiTyagi/DSA/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/7KhushiTyagi/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Dynamic Programming
 |  |
@@ -217,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0135-candy](https://github.com/7KhushiTyagi/DSA/tree/master/0135-candy) |
 | [0410-split-array-largest-sum](https://github.com/7KhushiTyagi/DSA/tree/master/0410-split-array-largest-sum) |
 | [0455-assign-cookies](https://github.com/7KhushiTyagi/DSA/tree/master/0455-assign-cookies) |
+| [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/7KhushiTyagi/DSA/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
 ## Prefix Sum
 |  |
 | ------- |
