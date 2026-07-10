@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0096-unique-binary-search-trees](https://github.com/7KhushiTyagi/DSA/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/7KhushiTyagi/DSA/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/7KhushiTyagi/DSA/tree/master/0099-recover-binary-search-tree) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/7KhushiTyagi/DSA/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/7KhushiTyagi/DSA/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/7KhushiTyagi/DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/7KhushiTyagi/DSA/tree/master/0543-diameter-of-binary-tree) |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/7KhushiTyagi/DSA/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/7KhushiTyagi/DSA/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/7KhushiTyagi/DSA/tree/master/0099-recover-binary-search-tree) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/7KhushiTyagi/DSA/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0130-surrounded-regions](https://github.com/7KhushiTyagi/DSA/tree/master/0130-surrounded-regions) |
 | [0207-course-schedule](https://github.com/7KhushiTyagi/DSA/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/7KhushiTyagi/DSA/tree/master/0210-course-schedule-ii) |
@@ -80,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0096-unique-binary-search-trees](https://github.com/7KhushiTyagi/DSA/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/7KhushiTyagi/DSA/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/7KhushiTyagi/DSA/tree/master/0099-recover-binary-search-tree) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/7KhushiTyagi/DSA/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/7KhushiTyagi/DSA/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/7KhushiTyagi/DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/7KhushiTyagi/DSA/tree/master/0543-diameter-of-binary-tree) |
@@ -221,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0096-unique-binary-search-trees](https://github.com/7KhushiTyagi/DSA/tree/master/0096-unique-binary-search-trees) |
 | [0118-pascals-triangle](https://github.com/7KhushiTyagi/DSA/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/7KhushiTyagi/DSA/tree/master/0120-triangle) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/7KhushiTyagi/DSA/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0131-palindrome-partitioning](https://github.com/7KhushiTyagi/DSA/tree/master/0131-palindrome-partitioning) |
 | [0198-house-robber](https://github.com/7KhushiTyagi/DSA/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/7KhushiTyagi/DSA/tree/master/0213-house-robber-ii) |
