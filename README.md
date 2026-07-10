@@ -158,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0213-house-robber-ii](https://github.com/7KhushiTyagi/DSA/tree/master/0213-house-robber-ii) |
 | [0216-combination-sum-iii](https://github.com/7KhushiTyagi/DSA/tree/master/0216-combination-sum-iii) |
 | [0238-product-of-array-except-self](https://github.com/7KhushiTyagi/DSA/tree/master/0238-product-of-array-except-self) |
+| [0239-sliding-window-maximum](https://github.com/7KhushiTyagi/DSA/tree/master/0239-sliding-window-maximum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/7KhushiTyagi/DSA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/7KhushiTyagi/DSA/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/7KhushiTyagi/DSA/tree/master/0283-move-zeroes) |
@@ -366,6 +367,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/7KhushiTyagi/DSA/tree/master/0239-sliding-window-maximum) |
 | [0743-network-delay-time](https://github.com/7KhushiTyagi/DSA/tree/master/0743-network-delay-time) |
 | [1631-path-with-minimum-effort](https://github.com/7KhushiTyagi/DSA/tree/master/1631-path-with-minimum-effort) |
 ## Shortest Path
@@ -376,6 +378,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/7KhushiTyagi/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0239-sliding-window-maximum](https://github.com/7KhushiTyagi/DSA/tree/master/0239-sliding-window-maximum) |
 | [0424-longest-repeating-character-replacement](https://github.com/7KhushiTyagi/DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [1004-max-consecutive-ones-iii](https://github.com/7KhushiTyagi/DSA/tree/master/1004-max-consecutive-ones-iii) |
 ## Trie
@@ -398,4 +401,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/7KhushiTyagi/DSA/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
+## Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/7KhushiTyagi/DSA/tree/master/0239-sliding-window-maximum) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/7KhushiTyagi/DSA/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
