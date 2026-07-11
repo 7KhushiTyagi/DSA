@@ -128,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/7KhushiTyagi/DSA/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/7KhushiTyagi/DSA/tree/master/0075-sort-colors) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/7KhushiTyagi/DSA/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
+| [0125-valid-palindrome](https://github.com/7KhushiTyagi/DSA/tree/master/0125-valid-palindrome) |
 | [0283-move-zeroes](https://github.com/7KhushiTyagi/DSA/tree/master/0283-move-zeroes) |
 | [0455-assign-cookies](https://github.com/7KhushiTyagi/DSA/tree/master/0455-assign-cookies) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/7KhushiTyagi/DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -362,6 +363,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/7KhushiTyagi/DSA/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/7KhushiTyagi/DSA/tree/master/0022-generate-parentheses) |
 | [0079-word-search](https://github.com/7KhushiTyagi/DSA/tree/master/0079-word-search) |
+| [0125-valid-palindrome](https://github.com/7KhushiTyagi/DSA/tree/master/0125-valid-palindrome) |
 | [0131-palindrome-partitioning](https://github.com/7KhushiTyagi/DSA/tree/master/0131-palindrome-partitioning) |
 | [0387-first-unique-character-in-a-string](https://github.com/7KhushiTyagi/DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/7KhushiTyagi/DSA/tree/master/0424-longest-repeating-character-replacement) |
