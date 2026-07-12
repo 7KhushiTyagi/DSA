@@ -242,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/7KhushiTyagi/DSA/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
 | [2073-time-needed-to-buy-tickets](https://github.com/7KhushiTyagi/DSA/tree/master/2073-time-needed-to-buy-tickets) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/7KhushiTyagi/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2527-find-xor-beauty-of-array](https://github.com/7KhushiTyagi/DSA/tree/master/2527-find-xor-beauty-of-array) |
 | [2596-check-knight-tour-configuration](https://github.com/7KhushiTyagi/DSA/tree/master/2596-check-knight-tour-configuration) |
 ## Dynamic Programming
 |  |
@@ -304,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/7KhushiTyagi/DSA/tree/master/0268-missing-number) |
 | [0368-largest-divisible-subset](https://github.com/7KhushiTyagi/DSA/tree/master/0368-largest-divisible-subset) |
 | [0775-global-and-local-inversions](https://github.com/7KhushiTyagi/DSA/tree/master/0775-global-and-local-inversions) |
+| [2527-find-xor-beauty-of-array](https://github.com/7KhushiTyagi/DSA/tree/master/2527-find-xor-beauty-of-array) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -311,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/7KhushiTyagi/DSA/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/7KhushiTyagi/DSA/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/7KhushiTyagi/DSA/tree/master/0268-missing-number) |
+| [2527-find-xor-beauty-of-array](https://github.com/7KhushiTyagi/DSA/tree/master/2527-find-xor-beauty-of-array) |
 ## Sorting
 |  |
 | ------- |
