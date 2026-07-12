@@ -142,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/7KhushiTyagi/DSA/tree/master/0567-permutation-in-string) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/7KhushiTyagi/DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [1048-longest-string-chain](https://github.com/7KhushiTyagi/DSA/tree/master/1048-longest-string-chain) |
+| [2105-watering-plants-ii](https://github.com/7KhushiTyagi/DSA/tree/master/2105-watering-plants-ii) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/7KhushiTyagi/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Breadth-First Search
 |  |
@@ -241,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1901-find-a-peak-element-ii](https://github.com/7KhushiTyagi/DSA/tree/master/1901-find-a-peak-element-ii) |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/7KhushiTyagi/DSA/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
 | [2073-time-needed-to-buy-tickets](https://github.com/7KhushiTyagi/DSA/tree/master/2073-time-needed-to-buy-tickets) |
+| [2105-watering-plants-ii](https://github.com/7KhushiTyagi/DSA/tree/master/2105-watering-plants-ii) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/7KhushiTyagi/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2527-find-xor-beauty-of-array](https://github.com/7KhushiTyagi/DSA/tree/master/2527-find-xor-beauty-of-array) |
 | [2596-check-knight-tour-configuration](https://github.com/7KhushiTyagi/DSA/tree/master/2596-check-knight-tour-configuration) |
@@ -341,6 +343,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/7KhushiTyagi/DSA/tree/master/0054-spiral-matrix) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/7KhushiTyagi/DSA/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [2073-time-needed-to-buy-tickets](https://github.com/7KhushiTyagi/DSA/tree/master/2073-time-needed-to-buy-tickets) |
+| [2105-watering-plants-ii](https://github.com/7KhushiTyagi/DSA/tree/master/2105-watering-plants-ii) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/7KhushiTyagi/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2596-check-knight-tour-configuration](https://github.com/7KhushiTyagi/DSA/tree/master/2596-check-knight-tour-configuration) |
 ## Matrix
