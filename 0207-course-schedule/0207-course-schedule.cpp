@@ -1,21 +1,14 @@
 class Solution {
 public:
     bool canFinish(int numCourses, vector<vector<int>>& prerequisites) {
-        int V= numCourses;
+        int V=numCourses;
+
         vector<int> graph[V];
-
-        for(auto &it:prerequisites){
-            graph[it[1]].push_back(it[0]);
+        vector<int> indegree(V);
+        for(auto ele:prerequisites){
+            graph[ele[1]].push_back(ele[0]);
+            indegree[ele[0]]++;
         }
-
-        vector<int> indegree(V,0);
-
-        for(int i=0;i<V;i++){
-            for(auto &ele: graph[i]){
-                indegree[ele]++;
-            }
-        }
-
         queue<int> q;
         for(int i=0;i<V;i++){
             if(indegree[i]==0){
@@ -25,23 +18,23 @@ public:
         vector<int> res;
 
         while(!q.empty()){
-            int ele=q.front();
+            int node=q.front();
             q.pop();
 
-            res.push_back(ele);
+            res.push_back(node);
 
-            for(auto neighbour:graph[ele]){
+            for(int neighbour: graph[node]){
                 indegree[neighbour]--;
                 if(indegree[neighbour]==0){
                     q.push(neighbour);
                 }
             }
         }
-        if(res.size()!=V){
-            return false;
-        }
-        return true;
-        
+
+        return res.size()==V;
+
+
+
         
     }
 };
