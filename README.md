@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/7KhushiTyagi/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/7KhushiTyagi/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0133-clone-graph](https://github.com/7KhushiTyagi/DSA/tree/master/0133-clone-graph) |
+| [0138-copy-list-with-random-pointer](https://github.com/7KhushiTyagi/DSA/tree/master/0138-copy-list-with-random-pointer) |
 | [0169-majority-element](https://github.com/7KhushiTyagi/DSA/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/7KhushiTyagi/DSA/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/7KhushiTyagi/DSA/tree/master/0268-missing-number) |
@@ -469,6 +470,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/7KhushiTyagi/DSA/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0092-reverse-linked-list-ii](https://github.com/7KhushiTyagi/DSA/tree/master/0092-reverse-linked-list-ii) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/7KhushiTyagi/DSA/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0138-copy-list-with-random-pointer](https://github.com/7KhushiTyagi/DSA/tree/master/0138-copy-list-with-random-pointer) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/7KhushiTyagi/DSA/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 ## Memoization
 |  |
