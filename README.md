@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/7KhushiTyagi/DSA/tree/master/0547-number-of-provinces) |
 | [0572-subtree-of-another-tree](https://github.com/7KhushiTyagi/DSA/tree/master/0572-subtree-of-another-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/7KhushiTyagi/DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0684-redundant-connection](https://github.com/7KhushiTyagi/DSA/tree/master/0684-redundant-connection) |
 | [0733-flood-fill](https://github.com/7KhushiTyagi/DSA/tree/master/0733-flood-fill) |
 | [0743-network-delay-time](https://github.com/7KhushiTyagi/DSA/tree/master/0743-network-delay-time) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/7KhushiTyagi/DSA/tree/master/0783-minimum-distance-between-bst-nodes) |
@@ -149,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/7KhushiTyagi/DSA/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/7KhushiTyagi/DSA/tree/master/0547-number-of-provinces) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/7KhushiTyagi/DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0684-redundant-connection](https://github.com/7KhushiTyagi/DSA/tree/master/0684-redundant-connection) |
 | [0733-flood-fill](https://github.com/7KhushiTyagi/DSA/tree/master/0733-flood-fill) |
 | [0743-network-delay-time](https://github.com/7KhushiTyagi/DSA/tree/master/0743-network-delay-time) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/7KhushiTyagi/DSA/tree/master/0783-minimum-distance-between-bst-nodes) |
@@ -359,6 +361,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/7KhushiTyagi/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/7KhushiTyagi/DSA/tree/master/0130-surrounded-regions) |
 | [0547-number-of-provinces](https://github.com/7KhushiTyagi/DSA/tree/master/0547-number-of-provinces) |
+| [0684-redundant-connection](https://github.com/7KhushiTyagi/DSA/tree/master/0684-redundant-connection) |
 | [0785-is-graph-bipartite](https://github.com/7KhushiTyagi/DSA/tree/master/0785-is-graph-bipartite) |
 | [1020-number-of-enclaves](https://github.com/7KhushiTyagi/DSA/tree/master/1020-number-of-enclaves) |
 | [1631-path-with-minimum-effort](https://github.com/7KhushiTyagi/DSA/tree/master/1631-path-with-minimum-effort) |
@@ -421,6 +424,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/7KhushiTyagi/DSA/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/7KhushiTyagi/DSA/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/7KhushiTyagi/DSA/tree/master/0547-number-of-provinces) |
+| [0684-redundant-connection](https://github.com/7KhushiTyagi/DSA/tree/master/0684-redundant-connection) |
 | [0743-network-delay-time](https://github.com/7KhushiTyagi/DSA/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/7KhushiTyagi/DSA/tree/master/0785-is-graph-bipartite) |
 | [0802-find-eventual-safe-states](https://github.com/7KhushiTyagi/DSA/tree/master/0802-find-eventual-safe-states) |
