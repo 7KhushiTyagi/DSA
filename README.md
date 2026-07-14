@@ -428,6 +428,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1048-longest-string-chain](https://github.com/7KhushiTyagi/DSA/tree/master/1048-longest-string-chain) |
 | [1143-longest-common-subsequence](https://github.com/7KhushiTyagi/DSA/tree/master/1143-longest-common-subsequence) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/7KhushiTyagi/DSA/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
+| [1392-longest-happy-prefix](https://github.com/7KhushiTyagi/DSA/tree/master/1392-longest-happy-prefix) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/7KhushiTyagi/DSA/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Recursion
 |  |
@@ -540,10 +541,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/7KhushiTyagi/DSA/tree/master/0572-subtree-of-another-tree) |
+| [1392-longest-happy-prefix](https://github.com/7KhushiTyagi/DSA/tree/master/1392-longest-happy-prefix) |
 ## Hash Function
 |  |
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/7KhushiTyagi/DSA/tree/master/0572-subtree-of-another-tree) |
+| [1392-longest-happy-prefix](https://github.com/7KhushiTyagi/DSA/tree/master/1392-longest-happy-prefix) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -558,4 +561,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0703-kth-largest-element-in-a-stream](https://github.com/7KhushiTyagi/DSA/tree/master/0703-kth-largest-element-in-a-stream) |
+## Rolling Hash
+|  |
+| ------- |
+| [1392-longest-happy-prefix](https://github.com/7KhushiTyagi/DSA/tree/master/1392-longest-happy-prefix) |
 <!---LeetCode Topics End-->
