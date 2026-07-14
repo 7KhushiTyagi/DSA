@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0703-kth-largest-element-in-a-stream](https://github.com/7KhushiTyagi/DSA/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/7KhushiTyagi/DSA/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/7KhushiTyagi/DSA/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/7KhushiTyagi/DSA/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/7KhushiTyagi/DSA/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/7KhushiTyagi/DSA/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 ## Depth-First Search
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0852-peak-index-in-a-mountain-array](https://github.com/7KhushiTyagi/DSA/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/7KhushiTyagi/DSA/tree/master/0875-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/7KhushiTyagi/DSA/tree/master/1004-max-consecutive-ones-iii) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/7KhushiTyagi/DSA/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/7KhushiTyagi/DSA/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/7KhushiTyagi/DSA/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/7KhushiTyagi/DSA/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
@@ -110,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0703-kth-largest-element-in-a-stream](https://github.com/7KhushiTyagi/DSA/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/7KhushiTyagi/DSA/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/7KhushiTyagi/DSA/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/7KhushiTyagi/DSA/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/7KhushiTyagi/DSA/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/7KhushiTyagi/DSA/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 ## Hash Table
@@ -248,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0875-koko-eating-bananas](https://github.com/7KhushiTyagi/DSA/tree/master/0875-koko-eating-bananas) |
 | [0994-rotting-oranges](https://github.com/7KhushiTyagi/DSA/tree/master/0994-rotting-oranges) |
 | [1004-max-consecutive-ones-iii](https://github.com/7KhushiTyagi/DSA/tree/master/1004-max-consecutive-ones-iii) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/7KhushiTyagi/DSA/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/7KhushiTyagi/DSA/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1020-number-of-enclaves](https://github.com/7KhushiTyagi/DSA/tree/master/1020-number-of-enclaves) |
 | [1048-longest-string-chain](https://github.com/7KhushiTyagi/DSA/tree/master/1048-longest-string-chain) |
@@ -536,6 +540,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/7KhushiTyagi/DSA/tree/master/0155-min-stack) |
 | [0496-next-greater-element-i](https://github.com/7KhushiTyagi/DSA/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/7KhushiTyagi/DSA/tree/master/0503-next-greater-element-ii) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/7KhushiTyagi/DSA/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/7KhushiTyagi/DSA/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## String Matching
 |  |
@@ -552,6 +557,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0496-next-greater-element-i](https://github.com/7KhushiTyagi/DSA/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/7KhushiTyagi/DSA/tree/master/0503-next-greater-element-ii) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/7KhushiTyagi/DSA/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Design
 |  |
 | ------- |
