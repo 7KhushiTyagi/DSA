@@ -251,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/7KhushiTyagi/DSA/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1020-number-of-enclaves](https://github.com/7KhushiTyagi/DSA/tree/master/1020-number-of-enclaves) |
 | [1048-longest-string-chain](https://github.com/7KhushiTyagi/DSA/tree/master/1048-longest-string-chain) |
+| [1049-last-stone-weight-ii](https://github.com/7KhushiTyagi/DSA/tree/master/1049-last-stone-weight-ii) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/7KhushiTyagi/DSA/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/7KhushiTyagi/DSA/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/7KhushiTyagi/DSA/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
@@ -291,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0646-maximum-length-of-pair-chain](https://github.com/7KhushiTyagi/DSA/tree/master/0646-maximum-length-of-pair-chain) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/7KhushiTyagi/DSA/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [1048-longest-string-chain](https://github.com/7KhushiTyagi/DSA/tree/master/1048-longest-string-chain) |
+| [1049-last-stone-weight-ii](https://github.com/7KhushiTyagi/DSA/tree/master/1049-last-stone-weight-ii) |
 | [1143-longest-common-subsequence](https://github.com/7KhushiTyagi/DSA/tree/master/1143-longest-common-subsequence) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/7KhushiTyagi/DSA/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/7KhushiTyagi/DSA/tree/master/1547-minimum-cost-to-cut-a-stick) |
