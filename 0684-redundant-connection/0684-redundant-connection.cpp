@@ -1,33 +1,31 @@
 class Solution {
 public:
-    int findParent(int i,vector<int>& parent){
-        if(i==parent[i]){
-            return i;
-        }
+    int findParent(int i,vector<int>& parents){
+        if(i==parents[i]) return i;
 
-        return findParent(parent[i],parent);
+        return parents[i]=findParent(parents[i],parents);
     }
     vector<int> findRedundantConnection(vector<vector<int>>& edges) {
-        int n= edges.size();
-        
-        vector<int> parent(n+1,0);
+        int n=edges.size();
 
+        vector<int> parents(n+1);
         for(int i=1;i<=n;i++){
-            parent[i]=i;
+            parents[i]=i;
         }
 
-        for(auto ele:edges){
-            int u= ele[0];
-            int v= ele[1];
+        for(auto it:edges){
+            int u=it[0];
+            int v= it[1];
 
-            int ulp_u=findParent(u,parent);
-            int ulp_v= findParent(v,parent);
+            int ulp_u=findParent(u,parents);
+            int ulp_v=findParent(v,parents);
 
-            if(ulp_u==ulp_v) return {u,v};
+            if(ulp_u==ulp_v){
+                return {u,v};
+            }
 
-            parent[ulp_v]=ulp_u;
+            parents[ulp_u]=ulp_v;
         }
         return {};
-        
     }
 };
