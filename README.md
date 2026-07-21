@@ -156,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/7KhushiTyagi/DSA/tree/master/0455-assign-cookies) |
 | [0567-permutation-in-string](https://github.com/7KhushiTyagi/DSA/tree/master/0567-permutation-in-string) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/7KhushiTyagi/DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0845-longest-mountain-in-array](https://github.com/7KhushiTyagi/DSA/tree/master/0845-longest-mountain-in-array) |
 | [1048-longest-string-chain](https://github.com/7KhushiTyagi/DSA/tree/master/1048-longest-string-chain) |
 | [2105-watering-plants-ii](https://github.com/7KhushiTyagi/DSA/tree/master/2105-watering-plants-ii) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/7KhushiTyagi/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -247,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0673-number-of-longest-increasing-subsequence](https://github.com/7KhushiTyagi/DSA/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0733-flood-fill](https://github.com/7KhushiTyagi/DSA/tree/master/0733-flood-fill) |
 | [0775-global-and-local-inversions](https://github.com/7KhushiTyagi/DSA/tree/master/0775-global-and-local-inversions) |
+| [0845-longest-mountain-in-array](https://github.com/7KhushiTyagi/DSA/tree/master/0845-longest-mountain-in-array) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/7KhushiTyagi/DSA/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/7KhushiTyagi/DSA/tree/master/0875-koko-eating-bananas) |
 | [0994-rotting-oranges](https://github.com/7KhushiTyagi/DSA/tree/master/0994-rotting-oranges) |
@@ -296,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0583-delete-operation-for-two-strings](https://github.com/7KhushiTyagi/DSA/tree/master/0583-delete-operation-for-two-strings) |
 | [0646-maximum-length-of-pair-chain](https://github.com/7KhushiTyagi/DSA/tree/master/0646-maximum-length-of-pair-chain) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/7KhushiTyagi/DSA/tree/master/0673-number-of-longest-increasing-subsequence) |
+| [0845-longest-mountain-in-array](https://github.com/7KhushiTyagi/DSA/tree/master/0845-longest-mountain-in-array) |
 | [1048-longest-string-chain](https://github.com/7KhushiTyagi/DSA/tree/master/1048-longest-string-chain) |
 | [1049-last-stone-weight-ii](https://github.com/7KhushiTyagi/DSA/tree/master/1049-last-stone-weight-ii) |
 | [1092-shortest-common-supersequence](https://github.com/7KhushiTyagi/DSA/tree/master/1092-shortest-common-supersequence) |
@@ -576,4 +579,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1392-longest-happy-prefix](https://github.com/7KhushiTyagi/DSA/tree/master/1392-longest-happy-prefix) |
+## Enumeration
+|  |
+| ------- |
+| [0845-longest-mountain-in-array](https://github.com/7KhushiTyagi/DSA/tree/master/0845-longest-mountain-in-array) |
 <!---LeetCode Topics End-->
