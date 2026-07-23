@@ -1,27 +1,26 @@
 class Solution {
+
 public:
-    
-    int mini = INT_MAX;
-    TreeNode* prev = nullptr;
+    int mini=INT_MAX;
+    TreeNode* prev=nullptr;
 
-    void inorder(TreeNode* root) {
-        if (!root) return;
+    void helper(TreeNode* &root){
+         if(!root) return;
 
-        
-        inorder(root->left);
+         helper(root->left);
+         if(prev!=nullptr){
+            mini=min(mini,root->val-prev->val);
+         }
 
-        
-        if (prev != nullptr) {
-            mini = min(mini, root->val - prev->val);
-        }
-        prev = root; 
+         prev=root;
 
-       
-        inorder(root->right);
+         helper(root->right);
+
+
     }
 
     int minDiffInBST(TreeNode* root) {
-        inorder(root);
+        helper(root);
         return mini;
     }
 };
