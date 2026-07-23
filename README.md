@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/7KhushiTyagi/DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/7KhushiTyagi/DSA/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/7KhushiTyagi/DSA/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0144-binary-tree-preorder-traversal](https://github.com/7KhushiTyagi/DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/7KhushiTyagi/DSA/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/7KhushiTyagi/DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/7KhushiTyagi/DSA/tree/master/0543-diameter-of-binary-tree) |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/7KhushiTyagi/DSA/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0130-surrounded-regions](https://github.com/7KhushiTyagi/DSA/tree/master/0130-surrounded-regions) |
 | [0133-clone-graph](https://github.com/7KhushiTyagi/DSA/tree/master/0133-clone-graph) |
+| [0144-binary-tree-preorder-traversal](https://github.com/7KhushiTyagi/DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0207-course-schedule](https://github.com/7KhushiTyagi/DSA/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/7KhushiTyagi/DSA/tree/master/0210-course-schedule-ii) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/7KhushiTyagi/DSA/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
@@ -104,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/7KhushiTyagi/DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/7KhushiTyagi/DSA/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/7KhushiTyagi/DSA/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0144-binary-tree-preorder-traversal](https://github.com/7KhushiTyagi/DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/7KhushiTyagi/DSA/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/7KhushiTyagi/DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/7KhushiTyagi/DSA/tree/master/0543-diameter-of-binary-tree) |
@@ -551,6 +554,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/7KhushiTyagi/DSA/tree/master/0020-valid-parentheses) |
 | [0094-binary-tree-inorder-traversal](https://github.com/7KhushiTyagi/DSA/tree/master/0094-binary-tree-inorder-traversal) |
+| [0144-binary-tree-preorder-traversal](https://github.com/7KhushiTyagi/DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0155-min-stack](https://github.com/7KhushiTyagi/DSA/tree/master/0155-min-stack) |
 | [0496-next-greater-element-i](https://github.com/7KhushiTyagi/DSA/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/7KhushiTyagi/DSA/tree/master/0503-next-greater-element-ii) |
