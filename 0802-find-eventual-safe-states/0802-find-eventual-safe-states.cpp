@@ -1,38 +1,41 @@
 class Solution {
 public:
     vector<int> eventualSafeNodes(vector<vector<int>>& graph) {
-        int V=graph.size();
-        vector<vector<int>> Graph(V);
-        vector<int> indegree(V,0);
-        for(int i=0;i<V;i++){
-            for(int ele:graph[i]){
-                Graph[ele].push_back(i);
+        int n = graph.size();
+
+        vector<vector<int>> g(n);
+        vector<int> indegree(n, 0);
+
+        for (int i = 0; i < n; i++) {
+            for (int neighbor : graph[i]) {
+                g[neighbor].push_back(i);
                 indegree[i]++;
             }
         }
 
+        vector<int> res;
         queue<int> q;
-        for(int i=0;i<V;i++){
-            if(indegree[i]==0){q.push(i);}
+
+        for (int i = 0; i < n; i++) {
+            if (indegree[i] == 0) {
+                q.push(i);
+            }
         }
-        vector<int> ans;
 
-        while(!q.empty()){
-            int ele=q.front();
+        while (!q.empty()) {
+            int ele = q.front();
             q.pop();
-            ans.push_back(ele);
+            res.push_back(ele);
 
-            for(int neighbour:Graph[ele]){
-                indegree[neighbour]--;
-                if(indegree[neighbour]==0){
-                    q.push(neighbour);
+            for (int it : g[ele]) {
+                indegree[it]--;
+                if (indegree[it] == 0) {
+                    q.push(it);
                 }
             }
         }
-        sort(ans.begin(),ans.end());
-        return ans;
 
-        
-        
+        sort(res.begin(), res.end());
+        return res;
     }
 };
