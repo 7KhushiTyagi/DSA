@@ -3,11 +3,13 @@ public:
     int longestConsecutive(vector<int>& nums) {
         unordered_set<int> st;
 
-        for(int num:nums){       //O(N)
+        for(int num:nums){
             st.insert(num);
         }
-        int maxi=0;
-        for(auto it:st){
+
+        int ans=0;
+
+        for(int it:st){
             if(st.find(it-1)==st.end()){
                 int count=1;
                 int x=it;
@@ -16,11 +18,12 @@ public:
                     count++;
                     x++;
                 }
-                maxi=max(maxi,count);
+
+                ans=max(ans,count);
             }
         }
-        return maxi;
 
+        return ans;
         
     }
 };
