@@ -4,17 +4,17 @@ public:
         int ele;
         int count=0;
 
-        for(int i=0;i<nums.size();i++){
+        for(int num:nums){
             if(count==0){
-                ele=nums[i];
+                ele=num;
                 count=1;
-            }
-            else if(ele==nums[i]){
+            }else if(num==ele){
                 count++;
             }else{
                 count--;
             }
         }
+
         return ele;
         
     }
