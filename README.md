@@ -262,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/7KhushiTyagi/DSA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0542-01-matrix](https://github.com/7KhushiTyagi/DSA/tree/master/0542-01-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/7KhushiTyagi/DSA/tree/master/0560-subarray-sum-equals-k) |
+| [0643-maximum-average-subarray-i](https://github.com/7KhushiTyagi/DSA/tree/master/0643-maximum-average-subarray-i) |
 | [0646-maximum-length-of-pair-chain](https://github.com/7KhushiTyagi/DSA/tree/master/0646-maximum-length-of-pair-chain) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/7KhushiTyagi/DSA/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0724-find-pivot-index](https://github.com/7KhushiTyagi/DSA/tree/master/0724-find-pivot-index) |
@@ -545,6 +546,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/7KhushiTyagi/DSA/tree/master/0239-sliding-window-maximum) |
 | [0424-longest-repeating-character-replacement](https://github.com/7KhushiTyagi/DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/7KhushiTyagi/DSA/tree/master/0567-permutation-in-string) |
+| [0643-maximum-average-subarray-i](https://github.com/7KhushiTyagi/DSA/tree/master/0643-maximum-average-subarray-i) |
 | [1004-max-consecutive-ones-iii](https://github.com/7KhushiTyagi/DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/7KhushiTyagi/DSA/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 ## Trie
