@@ -264,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/7KhushiTyagi/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0646-maximum-length-of-pair-chain](https://github.com/7KhushiTyagi/DSA/tree/master/0646-maximum-length-of-pair-chain) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/7KhushiTyagi/DSA/tree/master/0673-number-of-longest-increasing-subsequence) |
+| [0724-find-pivot-index](https://github.com/7KhushiTyagi/DSA/tree/master/0724-find-pivot-index) |
 | [0733-flood-fill](https://github.com/7KhushiTyagi/DSA/tree/master/0733-flood-fill) |
 | [0775-global-and-local-inversions](https://github.com/7KhushiTyagi/DSA/tree/master/0775-global-and-local-inversions) |
 | [0845-longest-mountain-in-array](https://github.com/7KhushiTyagi/DSA/tree/master/0845-longest-mountain-in-array) |
@@ -350,6 +351,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/7KhushiTyagi/DSA/tree/master/0238-product-of-array-except-self) |
 | [0410-split-array-largest-sum](https://github.com/7KhushiTyagi/DSA/tree/master/0410-split-array-largest-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/7KhushiTyagi/DSA/tree/master/0560-subarray-sum-equals-k) |
+| [0724-find-pivot-index](https://github.com/7KhushiTyagi/DSA/tree/master/0724-find-pivot-index) |
 | [1004-max-consecutive-ones-iii](https://github.com/7KhushiTyagi/DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/7KhushiTyagi/DSA/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 ## Divide and Conquer
