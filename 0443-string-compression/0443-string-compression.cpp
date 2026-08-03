@@ -1,9 +1,9 @@
 class Solution {
 public:
     int compress(vector<char>& chars) {
-        int n=chars.size();
         int read=0;
         int write=0;
+        int n=chars.size();
 
         while(read<n){
             char curr= chars[read];
@@ -17,13 +17,13 @@ public:
             chars[write++]=curr;
 
             if(count>1){
-                string str= to_string(count);
-                for(char c:str){
+                string s= to_string(count);
+                for(char c:s){
                     chars[write++]=c;
                 }
             }
+
         }
         return write;
-        
     }
 };
