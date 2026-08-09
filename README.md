@@ -292,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/7KhushiTyagi/DSA/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1631-path-with-minimum-effort](https://github.com/7KhushiTyagi/DSA/tree/master/1631-path-with-minimum-effort) |
 | [1671-minimum-number-of-removals-to-make-mountain-array](https://github.com/7KhushiTyagi/DSA/tree/master/1671-minimum-number-of-removals-to-make-mountain-array) |
+| [1710-maximum-units-on-a-truck](https://github.com/7KhushiTyagi/DSA/tree/master/1710-maximum-units-on-a-truck) |
 | [1901-find-a-peak-element-ii](https://github.com/7KhushiTyagi/DSA/tree/master/1901-find-a-peak-element-ii) |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/7KhushiTyagi/DSA/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
 | [2073-time-needed-to-buy-tickets](https://github.com/7KhushiTyagi/DSA/tree/master/2073-time-needed-to-buy-tickets) |
@@ -349,6 +350,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/7KhushiTyagi/DSA/tree/master/0455-assign-cookies) |
 | [0646-maximum-length-of-pair-chain](https://github.com/7KhushiTyagi/DSA/tree/master/0646-maximum-length-of-pair-chain) |
 | [1671-minimum-number-of-removals-to-make-mountain-array](https://github.com/7KhushiTyagi/DSA/tree/master/1671-minimum-number-of-removals-to-make-mountain-array) |
+| [1710-maximum-units-on-a-truck](https://github.com/7KhushiTyagi/DSA/tree/master/1710-maximum-units-on-a-truck) |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/7KhushiTyagi/DSA/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
 ## Prefix Sum
 |  |
@@ -412,6 +414,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0646-maximum-length-of-pair-chain](https://github.com/7KhushiTyagi/DSA/tree/master/0646-maximum-length-of-pair-chain) |
 | [1048-longest-string-chain](https://github.com/7KhushiTyagi/DSA/tree/master/1048-longest-string-chain) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/7KhushiTyagi/DSA/tree/master/1547-minimum-cost-to-cut-a-stick) |
+| [1710-maximum-units-on-a-truck](https://github.com/7KhushiTyagi/DSA/tree/master/1710-maximum-units-on-a-truck) |
 ## Counting
 |  |
 | ------- |
