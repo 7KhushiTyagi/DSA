@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/7KhushiTyagi/DSA/tree/master/0130-surrounded-regions) |
 | [0133-clone-graph](https://github.com/7KhushiTyagi/DSA/tree/master/0133-clone-graph) |
 | [0144-binary-tree-preorder-traversal](https://github.com/7KhushiTyagi/DSA/tree/master/0144-binary-tree-preorder-traversal) |
+| [0200-number-of-islands](https://github.com/7KhushiTyagi/DSA/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/7KhushiTyagi/DSA/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/7KhushiTyagi/DSA/tree/master/0210-course-schedule-ii) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/7KhushiTyagi/DSA/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
@@ -180,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/7KhushiTyagi/DSA/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0130-surrounded-regions](https://github.com/7KhushiTyagi/DSA/tree/master/0130-surrounded-regions) |
 | [0133-clone-graph](https://github.com/7KhushiTyagi/DSA/tree/master/0133-clone-graph) |
+| [0200-number-of-islands](https://github.com/7KhushiTyagi/DSA/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/7KhushiTyagi/DSA/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/7KhushiTyagi/DSA/tree/master/0210-course-schedule-ii) |
 | [0322-coin-change](https://github.com/7KhushiTyagi/DSA/tree/master/0322-coin-change) |
@@ -246,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/7KhushiTyagi/DSA/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/7KhushiTyagi/DSA/tree/master/0169-majority-element) |
 | [0198-house-robber](https://github.com/7KhushiTyagi/DSA/tree/master/0198-house-robber) |
+| [0200-number-of-islands](https://github.com/7KhushiTyagi/DSA/tree/master/0200-number-of-islands) |
 | [0209-minimum-size-subarray-sum](https://github.com/7KhushiTyagi/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0213-house-robber-ii](https://github.com/7KhushiTyagi/DSA/tree/master/0213-house-robber-ii) |
 | [0216-combination-sum-iii](https://github.com/7KhushiTyagi/DSA/tree/master/0216-combination-sum-iii) |
@@ -442,6 +445,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/7KhushiTyagi/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/7KhushiTyagi/DSA/tree/master/0079-word-search) |
 | [0130-surrounded-regions](https://github.com/7KhushiTyagi/DSA/tree/master/0130-surrounded-regions) |
+| [0200-number-of-islands](https://github.com/7KhushiTyagi/DSA/tree/master/0200-number-of-islands) |
 | [0240-search-a-2d-matrix-ii](https://github.com/7KhushiTyagi/DSA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0542-01-matrix](https://github.com/7KhushiTyagi/DSA/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/7KhushiTyagi/DSA/tree/master/0733-flood-fill) |
@@ -458,6 +462,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/7KhushiTyagi/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/7KhushiTyagi/DSA/tree/master/0130-surrounded-regions) |
+| [0200-number-of-islands](https://github.com/7KhushiTyagi/DSA/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/7KhushiTyagi/DSA/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/7KhushiTyagi/DSA/tree/master/0684-redundant-connection) |
 | [0785-is-graph-bipartite](https://github.com/7KhushiTyagi/DSA/tree/master/0785-is-graph-bipartite) |
